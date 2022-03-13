@@ -112,4 +112,3 @@ Você deve imprimir o valor da compra com duas casas decimais.
 ### Lições Aprendidas
 
 - 
-- 
