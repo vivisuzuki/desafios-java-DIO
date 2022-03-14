@@ -111,4 +111,7 @@ Você deve imprimir o valor da compra com duas casas decimais.
 
 ### Lições Aprendidas
 
-- 
+-  import java.util.Locale (Para conversões de unidades/linguagens)
+- deve-se tomar cuidado com os interruptores de laço (break/continue)
+- para exibir decimal com quantidade de casas especificadas existe a função printf (System.out.printf("%.02f", res))
+
