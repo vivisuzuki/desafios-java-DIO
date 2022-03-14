@@ -182,5 +182,4 @@ Para cada caso, imprima uma mensagem correspondente, de acordo com o exemplo aba
 
 ### Lições Aprendidas
 
-- 
-- 
+- Lembrar de utilizar label para controle de fluxo do código;
