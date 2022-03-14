@@ -149,4 +149,6 @@ Imprima um inteiro que indica a hora local prevista no destino, conforme os exem
 
 ### Lições Aprendidas
 
-- 
+- Uso dos métodos BufferedReader, InputStreamReader, e SringTokenizer para captar valores separados por espaço;
+- Algumas funções dentro do main podem lançar exceções do tipo de Entrada e Saída (IO) e uma das soluções para esse problema é adicionando o throws IOException na assinatura do método. Fazendo isso, você vai indicar que aquele método vai receber a exceção e lançar pro método que chamou ele. Vai ‘passar pra frente’ ao invés de tratar. (https://www.guj.com.br/t/porque-algumas-funcoes-em-java-pede-para-adicionar-isso-throws-ioexception-na-main/52134/3)
+
