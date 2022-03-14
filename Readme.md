@@ -152,3 +152,35 @@ Imprima um inteiro que indica a hora local prevista no destino, conforme os exem
 - Uso dos métodos BufferedReader, InputStreamReader, e SringTokenizer para captar valores separados por espaço;
 - Algumas funções dentro do main podem lançar exceções do tipo de Entrada e Saída (IO) e uma das soluções para esse problema é adicionando o throws IOException na assinatura do método. Fazendo isso, você vai indicar que aquele método vai receber a exceção e lançar pro método que chamou ele. Vai ‘passar pra frente’ ao invés de tratar. (https://www.guj.com.br/t/porque-algumas-funcoes-em-java-pede-para-adicionar-isso-throws-ioexception-na-main/52134/3)
 
+
+
+## Desafio 05: Par ou Ímpar
+
+
+
+### Enunciado:
+
+Leia um valor inteiro **N**. Este valor será a quantidade de valores que serão lidos em seguida. Para cada valor lido, mostre uma mensagem em inglês dizendo se este valor lido é par (*EVEN*), ímpar (*ODD*), positivo (*POSITIVE*) ou negativo (*NEGATIVE*). No caso do valor ser igual a zero (0), embora a descrição correta seja (*EVEN NULL*), pois por definição zero é par, seu programa deverá imprimir apenas *NULL*.
+
+
+
+### Entrada
+
+A primeira linha da entrada contém um valor inteiro **N**(**N** < 10000) que indica o número de casos de teste. Cada caso de teste a seguir é um valor inteiro **X** (-107 < **X** <107).
+
+### Saída
+
+Para cada caso, imprima uma mensagem correspondente, de acordo com o exemplo abaixo. Todas as letras deverão ser maiúsculas e sempre deverá haver um espaço **entre** duas palavras impressas na mesma linha.
+
+
+
+### Exemplo 05
+
+![Exemplo05](C:\Users\User\Documents\Bootcamp - Spread\15 - Desafios de codigo\imagens\Exemplo05.JPG)
+
+
+
+### Lições Aprendidas
+
+- 
+- 
