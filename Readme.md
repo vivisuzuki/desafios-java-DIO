@@ -1,3 +1,7 @@
+---
+typora-root-url: .github\images
+---
+
 # Desafios de código - Java
 
 
@@ -231,4 +235,5 @@ Maratona de Programação da SBC 2008.
 
 ### Lições Aprendidas
 
-- 
+- Utilizar a função Math.abs para deixar os valores absolutos e positivos
+- Utilizar while para abrir testes até indicar uma condição de parada;
