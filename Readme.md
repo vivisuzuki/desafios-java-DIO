@@ -23,7 +23,7 @@ Imprima uma linha na saída. A linha deve conter um inteiro, representando a cor
 
 ### Exemplos 01
 
-![Exemplo01](images\Exemplo01.JPG)
+![Exemplo01](https://github.com/vivisuzuki/desafios-java-DIO/blob/master/images/Exemplo01.JPG)
 
 
 
@@ -60,7 +60,7 @@ Para cada caso de teste, imprima a quantidade de kgs de trigo que o monge espera
 
 ### Exemplo 02
 
-![Exemplo02](images\Exemplo02.JPG)
+![Exemplo02](https://github.com/vivisuzuki/desafios-java-DIO/blob/master/images/Exemplo02.JPG)
 
 
 
@@ -105,7 +105,7 @@ Você deve imprimir o valor da compra com duas casas decimais.
 
 ### Exemplo 03
 
-![Exemplo03](images\Exemplo03.JPG)
+![Exemplo03](https://github.com/vivisuzuki/desafios-java-DIO/blob/master/images/Exemplo03.JPG)
 
 
 
@@ -143,7 +143,7 @@ Imprima um inteiro que indica a hora local prevista no destino, conforme os exem
 
 ### Exemplo 04
 
-![Exemplo04](images\Exemplo04.JPG)
+![Exemplo04](https://github.com/vivisuzuki/desafios-java-DIO/blob/master/images/Exemplo04.JPG)
 
 
 
@@ -176,7 +176,7 @@ Para cada caso, imprima uma mensagem correspondente, de acordo com o exemplo aba
 
 ### Exemplo 05
 
-![Exemplo05](.github\images\Exemplo05.JPG)
+![Exemplo05](https://github.com/vivisuzuki/desafios-java-DIO/blob/master/images/Exemplo05.JPG)
 
 
 
@@ -221,7 +221,7 @@ Para cada caso de teste da entrada seu programa deve imprimir uma única linha n
 
 ### Exemplo 06:
 
-![Exemplo06](images\Exemplo06.jpg)
+![Exemplo06](https://github.com/vivisuzuki/desafios-java-DIO/blob/master/images/Exemplo06.jpg)
 
 
 
